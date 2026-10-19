@@ -1,32 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, monospace" width="985px" height="530px" font-size="16px" xml:space="preserve">
 <rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
-<text x="10" y="10" fill="#24292f" xml:space="preserve">
-  <tspan x="15" dy="1.2em">               ......,,,,,,           </tspan>
-  <tspan x="15" dy="1.2em">            ,,,,,,,,,,---,,,,,        </tspan>
-  <tspan x="15" dy="1.2em">         ,,,,,-------~~~~~~~----      </tspan>
-  <tspan x="15" dy="1.2em">        ,-----~~~~~~~~~::::::~~~~     </tspan>
-  <tspan x="15" dy="1.2em">      -----~~~~~:::~:::::::::::::~    </tspan>
-  <tspan x="15" dy="1.2em">     ---~~~::~:::::;;;;;;;;;;;;:;::   </tspan>
-  <tspan x="15" dy="1.2em">    ~~~~~~:::::;;;=======!!====;;;;;  </tspan>
-  <tspan x="15" dy="1.2em">   :~~::::::;;;===!!!********!!!==;;  </tspan>
-  <tspan x="15" dy="1.2em">   ::::::;;;;==!!***###$$$$###**!!==  </tspan>
-  <tspan x="15" dy="1.2em">  :::::;;;===!!**##$$@@@@@@@@$$#**!=! </tspan>
-  <tspan x="15" dy="1.2em">  ;::;;;===!!**#$$@@@@@@@@@@@@@$##*!! </tspan>
-  <tspan x="15" dy="1.2em">  ;;;;===!!**#$$@@@@@@@@@@@@@@@@$##*! </tspan>
-  <tspan x="15" dy="1.2em">  ;;===!!!**#$@@@@@@@   @@@@@@@@@$#** </tspan>
-  <tspan x="15" dy="1.2em"> !====!!!*##$@@@@@@      @@@@@@@@$##  </tspan>
-  <tspan x="15" dy="1.2em">  ==!!!***#$@@@@@       *@@@@@@@@$##  </tspan>
-  <tspan x="15" dy="1.2em">  !!!!***#$$@@@@       :;#$@@@$$$$$$  </tspan>
-  <tspan x="15" dy="1.2em">  *!****##$$@@@@$;  ~---:;*######$$   </tspan>
-  <tspan x="15" dy="1.2em">  *****###$$@@@@*=~-,.,-~:=!**###$    </tspan>
-  <tspan x="15" dy="1.2em">   #######$$@@@$!;:-,,,-~:;=!**#$     </tspan>
-  <tspan x="15" dy="1.2em">   $#####$$$$$#*!;:~----~:;=!!#$      </tspan>
-  <tspan x="15" dy="1.2em">    @$$$$$$$###*!;;:~~~::;==!#@       </tspan>
-  <tspan x="15" dy="1.2em">      @$$$$$##**!=;;:::::;!*$         </tspan>
-  <tspan x="15" dy="1.2em">       @@@$$$##*!!==;;==!#$           </tspan>
-  <tspan x="15" dy="1.2em">         @@@@$$###***#$@@             </tspan>
-  <tspan x="15" dy="1.2em">              @@@@@@                  </tspan>
+<text x="10" y="10" fill="#4f8f23" font-weight="bold" xml:space="preserve">
+  <tspan x="15" dy="1.2em">                                      </tspan>
+  <tspan x="15" dy="1.2em">                                      </tspan>
+  <tspan x="15" dy="1.2em">                                      </tspan>
+  <tspan x="15" dy="1.2em">               #######                </tspan>
+  <tspan x="15" dy="1.2em">               #######                </tspan>
+  <tspan x="15" dy="1.2em">               #######                </tspan>
+  <tspan x="15" dy="1.2em">               #######                </tspan>
+  <tspan x="15" dy="1.2em">        #####################         </tspan>
+  <tspan x="15" dy="1.2em">        #####################         </tspan>
+  <tspan x="15" dy="1.2em">        #####################         </tspan>
+  <tspan x="15" dy="1.2em">        #######+++++++#######         </tspan>
+  <tspan x="15" dy="1.2em"> ##############       ##############  </tspan>
+  <tspan x="15" dy="1.2em"> ##############       ##############  </tspan>
+  <tspan x="15" dy="1.2em"> ##############       ##############  </tspan>
+  <tspan x="15" dy="1.2em"> ##############       ##############  </tspan>
+  <tspan x="15" dy="1.2em"> ###################################  </tspan>
+  <tspan x="15" dy="1.2em"> ###################################  </tspan>
+  <tspan x="15" dy="1.2em"> ###################################  </tspan>
+  <tspan x="15" dy="1.2em"> +++++++#######+++++++#######+++++++  </tspan>
+  <tspan x="15" dy="1.2em">        #######       #######         </tspan>
+  <tspan x="15" dy="1.2em">        #######       #######         </tspan>
+  <tspan x="15" dy="1.2em">        #######       #######         </tspan>
+  <tspan x="15" dy="1.2em">        +++++++       +++++++         </tspan>
+  <tspan x="15" dy="1.2em">                                      </tspan>
+  <tspan x="15" dy="1.2em">                                      </tspan>
   <tspan x="15" dy="1.2em">                                      </tspan>
 </text>
 <text x="390" y="30" fill="#24292f" xml:space="preserve">
