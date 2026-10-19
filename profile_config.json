@@ -1,0 +1,71 @@
+{
+  "_comment": "Profile Configuration for GitHub Stats SVG Card. Edit your values below.",
+  "_instructions": "Keep values within the max_chars limit shown in the ruler to prevent text collision or overflow. Use ASCII only: wide glyphs (e.g. Korean) break the dot alignment.",
+  "profile": {
+    "os": {
+      "value": "macOS, Web (WebGL2 / WebGPU)",
+      "max_chars": 51,
+      "ruler": "###################################################"
+    },
+    "host": {
+      "value": "Nation A (LUDYTE)",
+      "max_chars": 49,
+      "ruler": "#################################################"
+    },
+    "kernel": {
+      "value": "3D & Generative AI Full-stack Engineer",
+      "max_chars": 47,
+      "ruler": "###############################################"
+    },
+    "ide": {
+      "value": "VSCode, Claude Code",
+      "max_chars": 50,
+      "ruler": "##################################################"
+    },
+    "languages_programming": {
+      "value": "TS, JS, C++, Python, GLSL, WGSL",
+      "max_chars": 32,
+      "ruler": "################################"
+    },
+    "stack_graphics": {
+      "value": "Three.js, R3F, WebGPU/TSL, WebAR, WASM",
+      "max_chars": 39,
+      "ruler": "#######################################"
+    },
+    "stack_web": {
+      "value": "React, Next.js, FastAPI, PostgreSQL, AWS",
+      "max_chars": 44,
+      "ruler": "############################################"
+    },
+    "shipped": {
+      "value": "LUDYTE, Neuroid studio, Starbucks WebAR",
+      "max_chars": 46,
+      "ruler": "##############################################"
+    },
+    "oss_contrib": {
+      "value": "three.js, effectcraft, photocraft, openfilm",
+      "max_chars": 43,
+      "ruler": "###########################################"
+    },
+    "interests": {
+      "value": "WebGPU compute, shaders, AI video",
+      "max_chars": 44,
+      "ruler": "############################################"
+    },
+    "email": {
+      "value": "kleague3@gmail.com",
+      "max_chars": 48,
+      "ruler": "################################################"
+    },
+    "portfolio": {
+      "value": "heojunfoi.vercel.app",
+      "max_chars": 44,
+      "ruler": "############################################"
+    },
+    "solvedac": {
+      "value": "hjun0410",
+      "max_chars": 44,
+      "ruler": "############################################"
+    }
+  }
+}
